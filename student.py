@@ -1,1 +1,1 @@
-print("Agile is one of the best model")
+print("Student likes Agile")
