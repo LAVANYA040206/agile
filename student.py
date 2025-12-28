@@ -1,4 +1,4 @@
 
-print("Software Engineering and student likes Agile")
+print("Student likes Agile")
 
 
